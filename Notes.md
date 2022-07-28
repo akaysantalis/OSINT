@@ -17,3 +17,4 @@ https://pulsedive.com/explore/threats/
 
 https://emailcrawlr.com/
 
+https://github.com/nodauf/GoMapEnum
